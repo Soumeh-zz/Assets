@@ -1,0 +1,1 @@
+Golden Bag|item|gold|functional

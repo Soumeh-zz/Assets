@@ -1,0 +1,7 @@
+assets
+filelist.txt
+index.html
+LICENSE
+README.md
+script.js
+styles.css

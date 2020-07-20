@@ -1,0 +1,1 @@
+War Horn|item|gem|functional|obsidian

@@ -1,1 +1,1 @@
-Keystone, all, item, technical, gemstone
+Keystone|item|gem|functional

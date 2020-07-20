@@ -3,8 +3,11 @@
   <script type="text/json" src="assets.json"></script>
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
-<body>
+<body style="background-color:powderblue;">
   <h1>Assets</h1>
+  <label for="search">Search:</label>
+  <input id="search" type="search" name="assets" autofocus="true" onsearch="searchImages()"></input>
+  <input type="button" value="OK" onclick="searchImages()">
   <div id="assets"></div>
   <script src="script.js"></script>
 </body>

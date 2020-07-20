@@ -1,0 +1,1 @@
+Amethyst Amulet|item|gem|amulet

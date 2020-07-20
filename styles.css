@@ -1,1 +1,8 @@
+.asset {
+  text-align: center;
+  width: 200px;
+  float: left;
+  height: 200px;
+}
+
 img {height: 160px; width: 160px; image-rendering: pixelated; -ms-interpolation-mode: nearest-neighbor;}
