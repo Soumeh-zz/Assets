@@ -8,7 +8,7 @@ function renderImage(item) {
     .then(response => response.text())
     .then(data => {
       var image = document.createElement("img");
-      image.title = (data.split('|')[2]);
+      image.title = (data.split('|').slice(1));
       image.src = 'assets/' + item + '.png';
       div.appendChild(image);
       var name = document.createElement("p");
